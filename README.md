@@ -24,7 +24,7 @@
 ### Screenshots
 
 ### Simple UI
-<img src='<img src="https://github.com/AishwaryaAR23/Automatic-Attendance-Using-Face-Recognition/raw/main/Screenshot%202026-05-20%20230033.png" width="700">'>
+<img src="https://github.com/AishwaryaAR23/Automatic-Attendance-Using-Face-Recognition/raw/main/Screenshot%202026-05-20%20230033.png" width="700">
 
 ### While taking Image
 <img src="https://github.com/AishwaryaAR23/Automatic-Attendance-Using-Face-Recognition/raw/main/Screenshot%202026-05-20%20230221.png" width="700">
