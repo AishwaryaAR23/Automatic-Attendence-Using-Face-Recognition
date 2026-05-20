@@ -24,7 +24,7 @@
 ### Screenshots
 
 ### Simple UI
-![Simple UI](register.png)
+![Simple UI](register.png) 
 
 ### While taking Image
 ![While taking Image](verify.png)
