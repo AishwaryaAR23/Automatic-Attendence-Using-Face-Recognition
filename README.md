@@ -24,13 +24,13 @@
 ### Screenshots
 
 ### Simple UI
-<img src="https://raw.githubusercontent.com/AishwaryaAR23/Automatic-Attendance-Using-Face-Recognition/main/register.png" width="700">
+![Simple UI](register.png)
 
 ### While taking Image
-<img src="https://raw.githubusercontent.com/AishwaryaAR23/Automatic-Attendance-Using-Face-Recognition/main/verify.png" width="700">
+![While taking Image](verify.png)
 
 ### While taking Attendance
-<img src="https://raw.githubusercontent.com/AishwaryaAR23/Automatic-Attendance-Using-Face-Recognition/main/attendance.png" width="700">
+![While taking Attendance](attendance.png)
 
 ## Attendance in tabular format 
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
